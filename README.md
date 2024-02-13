@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Washum
 - 👀 I’m interested in Computer Science / Robotics 
-- 🌱 I’m currently learning about Databases / Websystems / Algorithms 
+- 🌱 Classes Im currently taking: Computational Humanities / Computer Systems Organization / Functional Programming
 - 📫 How to reach me: WashumJK@hendrix.edu
 
 <!---

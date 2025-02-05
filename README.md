@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Washum
 - 👀 I’m interested in Computer Science / Robotics 
-- 🌱 Classes Im currently taking: Senior Seminar / Mobile Software Development
+- 🌱 Classes Im currently taking: Programming Languages / Interactive Game Development
 - 📫 How to reach me: WashumJK@hendrix.edu
 
 <!---
